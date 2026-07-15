@@ -13,7 +13,7 @@ Sample: n = 41 respondents across multiple countries, roles, and industries.
 Geographic distribution (Azure Map), respondent breakdown by role level, 
 company size, function, and industry.
 
-![Overview](screenshots/Survey Analysis_page-0002.jpg)
+![Overview](screenshots/overview.jpg)
 
 ### General Awareness & Adoption
 - Most-used automation tools
